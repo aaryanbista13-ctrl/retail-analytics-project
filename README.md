@@ -1,22 +1,21 @@
-\# Retail Analytics Project
+# Retail Analytics Project
 
 
 
-\-->A complete retail sales analytics project built using \*\*Python\*\*, \*\*Pandas\*\*, and \*\*NumPy\*\*.
+-->A complete retail sales analytics project built using \*\*Python\*\*, \*\*Pandas\*\*, and \*\*NumPy\*\*.
 
 
 
-\-->This project simulates a retail company's database by combining multiple datasets and performing business      analysis to generate useful KPIs.
+-->This project simulates a retail company's database by combining multiple datasets and performing business      analysis to generate useful KPIs.
 
 
 
-\##Project Structure
+##Project Structure
 
 
 
-Retail\_company/
+Retail_company
 
-│
 
 ├── customers.csv
 
@@ -54,77 +53,77 @@ Retail\_company/
 
 
 
-\#Technologies Used
+#Technologies Used
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- NumPy
-
-
+- NumPy
 
 
 
-\#Business KPIs Implemented
+
+
+#Business KPIs Implemented
 
 
 
-\### Revenue Analysis
+### Revenue Analysis
 
-\- Total Revenue
+- Total Revenue
 
-\- Net Revenue
+- Net Revenue
 
-\- Average Order Value
+- Average Order Value
 
-\- Revenue by Category
+- Revenue by Category
 
-\- Revenue by Customer City
+- Revenue by Customer City
 
-\- Revenue by Store City
+- Revenue by Store City
 
-\- Revenue by Store
+- Revenue by Store
 
-\- Revenue by Supplier
+- Revenue by Supplier
 
-\- Revenue by Product
+- Revenue by Product
 
-\- Monthly Revenue
+- Monthly Revenue
 
-\- Quarterly Revenue
-
-
-
-\### Customer Analysis
-
-\- Top 10 Customers
-
-\- Above Average Spending Customers
-
-\- Below Average Spending Customers
+- Quarterly Revenue
 
 
 
-\### Product Analysis
+### Customer Analysis
 
-\- Highest Selling Product
+- Top 10 Customers
 
-\- Lowest Selling Product
+- Above Average Spending Customers
 
-\- Top 10 Products by Revenue
+- Below Average Spending Customers
 
 
 
-\### Return Analysis
+### Product Analysis
 
-\- Return Rate
+- Highest Selling Product
 
-\- Return Reason Analysis
+- Lowest Selling Product
 
-\- Most Returned Product
+- Top 10 Products by Revenue
+
+
+
+### Return Analysis
+
+- Return Rate
+
+- Return Reason Analysis
+
+- Most Returned Product
 
 
 
@@ -138,7 +137,7 @@ Retail\_company/
 
 
 
-\#Dataset
+#Dataset
 
 
 
@@ -148,41 +147,38 @@ The project uses \*\*12 related CSV files\*\* representing:
 
 \- Customers
 
-\- Orders
+- Orders
 
-\- Products
+- Products
 
-\- Categories
+- Categories
 
-\- Employees
+- Employees
 
-\- Stores
+- Stores
 
-\- Payments
+- Payments
 
-\- Suppliers
+- Suppliers
 
-\- Inventory
+- Inventory
 
-\- Returns
+- Returns
 
-\- Reviews
+- Reviews
 
-\- Shipments
-
-
-
-\---
+- Shipments
 
 
 
-\## 🚀 How to Run
+
+## How to Run
 
 
 
 Install the required libraries:
 
-\-bash
+-bash
 
 pip install pandas numpy
 

@@ -1,0 +1,51 @@
+Order_ID,Customer_ID,Product_ID,Quantity,Employee_ID,Store_ID,Order_Date,Customer_Name,Gender,Age,Customer_City,Product,Category_ID,Price,Category,Employee_Name,Department,Store_Name,Store_City,Payment_ID,Payment_Method,Discount,Stock,Supplier_ID,Supplier_Name,Return_ID,Reason,Review_ID,Rating,Shipment_ID,Delivery_Status,Delivery_Date,Inventory_Value
+5001,1015,207,3,305,401,2025-11-11,Customer_15,Male,56,Pokhara,Product_7,1,596,Electronics,Emp_5,Sales,Central,Kathmandu,6001,Cash,15,83,702,XYZ,8003.0,Damaged,9001,3,10001,In Transit,2025-02-16,49468
+5002,1002,204,1,303,402,2025-05-03,Customer_2,Male,28,Kathmandu,Product_4,1,673,Electronics,Emp_3,Support,North,Pokhara,6002,Cash,10,10,703,Global,,,9002,4,10002,In Transit,2025-01-24,6730
+5003,1007,210,3,302,403,2025-08-13,Customer_7,Male,31,Pokhara,Product_10,3,217,Accessories,Emp_2,Sales,East,Lalitpur,6003,Cash,10,58,701,ABC,,,9003,5,10003,In Transit,2025-09-02,12586
+5004,1015,203,3,302,401,2025-12-18,Customer_15,Male,56,Pokhara,Product_3,2,123,Furniture,Emp_2,Sales,Central,Kathmandu,6004,Cash,15,8,701,ABC,8010.0,Late,9004,5,10004,Delayed,2025-06-08,984
+5005,1018,205,5,304,403,2025-07-12,Customer_18,Male,47,Kathmandu,Product_5,2,700,Furniture,Emp_4,Support,East,Lalitpur,6005,Card,0,36,703,Global,,,9005,4,10005,Delayed,2025-11-03,25200
+5006,1008,203,5,304,401,2025-01-28,Customer_8,Male,39,Lalitpur,Product_3,2,123,Furniture,Emp_4,Support,Central,Kathmandu,6006,Cash,15,8,701,ABC,,,9006,5,10006,Delayed,2025-11-02,984
+5007,1004,203,2,304,403,2025-02-13,Customer_4,Male,39,Pokhara,Product_3,2,123,Furniture,Emp_4,Support,East,Lalitpur,6007,Cash,5,8,701,ABC,8004.0,Wrong Item,9007,4,10007,Delayed,2025-01-08,984
+5008,1013,210,4,305,402,2025-09-28,Customer_13,Male,40,Lalitpur,Product_10,3,217,Accessories,Emp_5,Sales,North,Pokhara,6008,eSewa,10,58,701,ABC,,,9008,2,10008,Delayed,2025-04-27,12586
+5009,1001,202,5,303,403,2025-06-04,Customer_1,Male,18,Pokhara,Product_2,3,713,Accessories,Emp_3,Support,East,Lalitpur,6009,Card,0,23,703,Global,,,9009,4,10009,Delivered,2025-01-20,16399
+5010,1010,207,2,304,401,2025-12-24,Customer_10,Male,23,Lalitpur,Product_7,1,596,Electronics,Emp_4,Support,Central,Kathmandu,6010,Card,15,83,702,XYZ,,,9010,4,10010,In Transit,2025-03-08,49468
+5011,1009,209,2,305,401,2025-11-10,Customer_9,Female,24,Kathmandu,Product_9,2,300,Furniture,Emp_5,Sales,Central,Kathmandu,6011,eSewa,0,63,701,ABC,,,9011,3,10011,Delivered,2025-03-16,18900
+5012,1017,210,2,302,402,2025-03-18,Customer_17,Female,20,Kathmandu,Product_10,3,217,Accessories,Emp_2,Sales,North,Pokhara,6012,eSewa,5,58,701,ABC,8007.0,Late,9012,2,10012,In Transit,2025-11-04,12586
+5013,1017,201,5,303,402,2025-01-04,Customer_17,Female,20,Kathmandu,Product_1,2,749,Furniture,Emp_3,Support,North,Pokhara,6013,Cash,10,30,703,Global,,,9013,3,10013,In Transit,2025-10-07,22470
+5014,1012,205,2,301,401,2025-10-03,Customer_12,Male,24,Kathmandu,Product_5,2,700,Furniture,Emp_1,Sales,Central,Kathmandu,6014,Card,15,36,703,Global,,,9014,5,10014,In Transit,2025-08-23,25200
+5015,1003,208,1,305,401,2025-03-22,Customer_3,Female,45,Lalitpur,Product_8,3,796,Accessories,Emp_5,Sales,Central,Kathmandu,6015,Cash,0,14,702,XYZ,8006.0,Wrong Item,9015,4,10015,Delivered,2025-05-25,11144
+5016,1016,209,2,303,403,2025-10-14,Customer_16,Male,34,Kathmandu,Product_9,2,300,Furniture,Emp_3,Support,East,Lalitpur,6016,eSewa,10,63,701,ABC,,,9016,2,10016,In Transit,2025-06-06,18900
+5017,1007,209,2,303,402,2025-11-21,Customer_7,Male,31,Pokhara,Product_9,2,300,Furniture,Emp_3,Support,North,Pokhara,6017,Cash,10,63,701,ABC,,,9017,3,10017,In Transit,2025-10-20,18900
+5018,1012,208,5,304,401,2025-04-08,Customer_12,Male,24,Kathmandu,Product_8,3,796,Accessories,Emp_4,Support,Central,Kathmandu,6018,Card,0,14,702,XYZ,,,9018,4,10018,Delayed,2025-12-23,11144
+5019,1003,206,1,305,403,2025-04-19,Customer_3,Female,45,Lalitpur,Product_6,2,225,Furniture,Emp_5,Sales,East,Lalitpur,6019,Cash,10,65,702,XYZ,,,9019,1,10019,Delayed,2025-02-25,14625
+5020,1008,201,1,301,401,2025-02-02,Customer_8,Male,39,Lalitpur,Product_1,2,749,Furniture,Emp_1,Sales,Central,Kathmandu,6020,Card,10,30,703,Global,,,9020,3,10020,In Transit,2025-03-10,22470
+5021,1011,202,5,302,402,2025-11-16,Customer_11,Male,42,Kathmandu,Product_2,3,713,Accessories,Emp_2,Sales,North,Pokhara,6021,Cash,15,23,703,Global,,,9021,2,10021,Delayed,2025-02-19,16399
+5022,1007,209,2,305,403,2025-08-08,Customer_7,Male,31,Pokhara,Product_9,2,300,Furniture,Emp_5,Sales,East,Lalitpur,6022,Cash,10,63,701,ABC,,,9022,3,10022,Delivered,2025-01-10,18900
+5023,1016,207,2,301,401,2025-11-14,Customer_16,Male,34,Kathmandu,Product_7,1,596,Electronics,Emp_1,Sales,Central,Kathmandu,6023,Card,15,83,702,XYZ,,,9023,3,10023,In Transit,2025-10-22,49468
+5024,1012,207,4,304,403,2025-01-22,Customer_12,Male,24,Kathmandu,Product_7,1,596,Electronics,Emp_4,Support,East,Lalitpur,6024,Card,10,83,702,XYZ,,,9024,3,10024,Delivered,2025-07-13,49468
+5025,1004,201,4,303,401,2025-04-07,Customer_4,Male,39,Pokhara,Product_1,2,749,Furniture,Emp_3,Support,Central,Kathmandu,6025,Card,5,30,703,Global,,,9025,5,10025,Delayed,2025-12-07,22470
+5026,1007,209,4,302,402,2025-03-09,Customer_7,Male,31,Pokhara,Product_9,2,300,Furniture,Emp_2,Sales,North,Pokhara,6026,Cash,5,63,701,ABC,,,9026,1,10026,Delayed,2025-02-19,18900
+5027,1015,204,1,304,403,2025-02-02,Customer_15,Male,56,Pokhara,Product_4,1,673,Electronics,Emp_4,Support,East,Lalitpur,6027,Cash,15,10,703,Global,,,9027,2,10027,Delivered,2025-12-27,6730
+5028,1018,201,1,302,401,2025-07-16,Customer_18,Male,47,Kathmandu,Product_1,2,749,Furniture,Emp_2,Sales,Central,Kathmandu,6028,Cash,15,30,703,Global,8005.0,Damaged,9028,2,10028,In Transit,2025-11-08,22470
+5029,1016,204,4,301,401,2025-07-01,Customer_16,Male,34,Kathmandu,Product_4,1,673,Electronics,Emp_1,Sales,Central,Kathmandu,6029,eSewa,5,10,703,Global,,,9029,2,10029,Delayed,2025-02-23,6730
+5030,1013,205,4,303,402,2025-12-24,Customer_13,Male,40,Lalitpur,Product_5,2,700,Furniture,Emp_3,Support,North,Pokhara,6030,Cash,10,36,703,Global,8009.0,Late,9030,4,10030,Delayed,2025-05-28,25200
+5031,1018,208,2,302,402,2025-04-02,Customer_18,Male,47,Kathmandu,Product_8,3,796,Accessories,Emp_2,Sales,North,Pokhara,6031,Card,15,14,702,XYZ,,,9031,2,10031,Delayed,2025-11-20,11144
+5032,1019,209,1,303,401,2025-01-19,Customer_19,Female,52,Pokhara,Product_9,2,300,Furniture,Emp_3,Support,Central,Kathmandu,6032,Card,0,63,701,ABC,,,9032,2,10032,Delivered,2025-02-26,18900
+5033,1016,209,5,302,401,2025-09-03,Customer_16,Male,34,Kathmandu,Product_9,2,300,Furniture,Emp_2,Sales,Central,Kathmandu,6033,Card,10,63,701,ABC,,,9033,1,10033,Delivered,2025-10-26,18900
+5034,1006,202,5,301,403,2025-04-13,Customer_6,Male,27,Lalitpur,Product_2,3,713,Accessories,Emp_1,Sales,East,Lalitpur,6034,Cash,10,23,703,Global,8008.0,Late,9034,4,10034,Delayed,2025-01-12,16399
+5035,1004,210,2,305,403,2025-01-20,Customer_4,Male,39,Pokhara,Product_10,3,217,Accessories,Emp_5,Sales,East,Lalitpur,6035,Card,5,58,701,ABC,,,9035,4,10035,In Transit,2025-09-14,12586
+5036,1003,207,5,305,403,2025-06-09,Customer_3,Female,45,Lalitpur,Product_7,1,596,Electronics,Emp_5,Sales,East,Lalitpur,6036,Card,15,83,702,XYZ,,,9036,3,10036,Delivered,2025-11-12,49468
+5037,1007,206,2,303,402,2025-03-22,Customer_7,Male,31,Pokhara,Product_6,2,225,Furniture,Emp_3,Support,North,Pokhara,6037,eSewa,10,65,702,XYZ,,,9037,5,10037,In Transit,2025-02-17,14625
+5038,1010,208,3,301,401,2025-08-20,Customer_10,Male,23,Lalitpur,Product_8,3,796,Accessories,Emp_1,Sales,Central,Kathmandu,6038,eSewa,15,14,702,XYZ,,,9038,4,10038,Delivered,2025-11-11,11144
+5039,1019,202,1,305,401,2025-09-09,Customer_19,Female,52,Pokhara,Product_2,3,713,Accessories,Emp_5,Sales,Central,Kathmandu,6039,Card,15,23,703,Global,,,9039,4,10039,Delivered,2025-01-28,16399
+5040,1005,206,1,302,402,2025-05-06,Customer_5,Male,35,Lalitpur,Product_6,2,225,Furniture,Emp_2,Sales,North,Pokhara,6040,eSewa,15,65,702,XYZ,,,9040,1,10040,In Transit,2025-07-27,14625
+5041,1015,209,3,305,403,2025-09-01,Customer_15,Male,56,Pokhara,Product_9,2,300,Furniture,Emp_5,Sales,East,Lalitpur,6041,eSewa,5,63,701,ABC,,,9041,2,10041,In Transit,2025-08-04,18900
+5042,1018,205,1,302,402,2025-02-04,Customer_18,Male,47,Kathmandu,Product_5,2,700,Furniture,Emp_2,Sales,North,Pokhara,6042,Card,15,36,703,Global,8001.0,Late,9042,4,10042,In Transit,2025-07-12,25200
+5043,1018,203,3,303,403,2025-04-23,Customer_18,Male,47,Kathmandu,Product_3,2,123,Furniture,Emp_3,Support,East,Lalitpur,6043,Cash,5,8,701,ABC,,,9043,4,10043,Delivered,2025-11-27,984
+5044,1011,204,3,305,402,2025-05-28,Customer_11,Male,42,Kathmandu,Product_4,1,673,Electronics,Emp_5,Sales,North,Pokhara,6044,Cash,0,10,703,Global,,,9044,5,10044,In Transit,2025-08-23,6730
+5045,1002,202,4,303,401,2025-01-11,Customer_2,Male,28,Kathmandu,Product_2,3,713,Accessories,Emp_3,Support,Central,Kathmandu,6045,Card,10,23,703,Global,8002.0,Damaged,9045,1,10045,In Transit,2025-03-14,16399
+5046,1005,205,2,304,403,2025-12-14,Customer_5,Male,35,Lalitpur,Product_5,2,700,Furniture,Emp_4,Support,East,Lalitpur,6046,Cash,10,36,703,Global,,,9046,5,10046,In Transit,2025-03-24,25200
+5047,1018,201,1,301,403,2025-03-18,Customer_18,Male,47,Kathmandu,Product_1,2,749,Furniture,Emp_1,Sales,East,Lalitpur,6047,eSewa,0,30,703,Global,,,9047,4,10047,In Transit,2025-09-21,22470
+5048,1002,206,5,305,401,2025-07-05,Customer_2,Male,28,Kathmandu,Product_6,2,225,Furniture,Emp_5,Sales,Central,Kathmandu,6048,Card,5,65,702,XYZ,,,9048,4,10048,In Transit,2025-05-20,14625
+5049,1002,205,3,301,402,2025-04-22,Customer_2,Male,28,Kathmandu,Product_5,2,700,Furniture,Emp_1,Sales,North,Pokhara,6049,Cash,10,36,703,Global,,,9049,1,10049,In Transit,2025-09-25,25200
+5050,1008,202,3,305,402,2025-10-24,Customer_8,Male,39,Lalitpur,Product_2,3,713,Accessories,Emp_5,Sales,North,Pokhara,6050,Cash,5,23,703,Global,,,9050,3,10050,In Transit,2025-08-15,16399
